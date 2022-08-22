@@ -1,0 +1,9 @@
+{
+	"servers":	{
+		"provider1":	{
+			"host": "10.93.6.31",
+			"username": "",
+			"password": ""
+		}
+	}
+}
